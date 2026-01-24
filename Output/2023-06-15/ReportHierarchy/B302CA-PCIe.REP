@@ -1,0 +1,17 @@
+------------------------------------------------------------
+Design Hierarchy Report for B302CA-PCIe.PrjPcb
+-- 15.06.2023
+-- 13:47:05
+------------------------------------------------------------
+
+Block Diagram                 SCH        (Block Diagram.SchDoc)
+    220V Sense Inputs         SCH        (220V Sense Input Socket.SchDoc)
+    Card Edge Connector       SCH        (Card Edge Connector.SchDoc)
+    Optic Isolator 1          SCH        (Opto Isolator 1.SchDoc)
+    Optic Isolator 2          SCH        (Opto Isolator 2.SchDoc)
+    Optic Isolator 3          SCH        (Opto Isolator 3.SchDoc)
+    Optic Isolator 4          SCH        (Opto Isolator 4.SchDoc)
+    Optic Isolator 5          SCH        (Opto Isolator 5.SchDoc)
+    Optic Isolator 6          SCH        (Opto Isolator 6.SchDoc)
+    Optic Isolator 7          SCH        (Opto Isolator 7.SchDoc)
+    Optic Isolator 8          SCH        (Opto Isolator 8.SchDoc)

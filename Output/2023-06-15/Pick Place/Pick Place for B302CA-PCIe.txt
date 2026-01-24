@@ -1,0 +1,49 @@
+Altium Designer Pick and Place Locations
+C:\Users\akkoyun\Documents\Electronic_Modules\Modules [B]\B3XX - Input Segment\B302\B302CA\Output\2023-06-15\Pick Place\Pick Place for B302CA-PCIe.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15.06.23
+Time:       13:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                              Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                      
+U2         TCMT4100                             BottomLayer SO-16                  397.638       334.646       270      "OptpCoupler 4CH 16 Pin (SOP16)"                                                                 
+U1         TCMT4100                             BottomLayer SO-16                  -94.488       334.646       270      "OptpCoupler 4CH 16 Pin (SOP16)"                                                                 
+R16        "47K - 0402 - %1 - 1/16W"            BottomLayer RESISTOR_0402          522.638       137.795       90       "Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"                                                   
+R15        "220K - 0805 - %5 - 1/16W"           BottomLayer RESISTOR_0805          496.066       767.716       90       "Thick Film Resistors - SMD 1/2 W 220 KOhm 5%"                                                   
+R14        "47K - 0402 - %1 - 1/16W"            BottomLayer RESISTOR_0402          422.638       137.795       90       "Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"                                                   
+R13        "220K - 0805 - %5 - 1/16W"           BottomLayer RESISTOR_0805          397.641       767.716       90       "Thick Film Resistors - SMD 1/2 W 220 KOhm 5%"                                                   
+R12        "47K - 0402 - %1 - 1/16W"            BottomLayer RESISTOR_0402          322.638       137.795       90       "Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"                                                   
+R11        "220K - 0805 - %5 - 1/16W"           BottomLayer RESISTOR_0805          299.216       767.716       90       "Thick Film Resistors - SMD 1/2 W 220 KOhm 5%"                                                   
+R10        "47K - 0402 - %1 - 1/16W"            BottomLayer RESISTOR_0402          222.638       137.795       90       "Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"                                                   
+R9         "220K - 0805 - %5 - 1/16W"           BottomLayer RESISTOR_0805          200.790       767.716       90       "Thick Film Resistors - SMD 1/2 W 220 KOhm 5%"                                                   
+R8         "47K - 0402 - %1 - 1/16W"            BottomLayer RESISTOR_0402          30.512        137.795       90       "Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"                                                   
+R7         "220K - 0805 - %5 - 1/16W"           BottomLayer RESISTOR_0805          102.365       767.716       90       "Thick Film Resistors - SMD 1/2 W 220 KOhm 5%"                                                   
+R6         "47K - 0402 - %1 - 1/16W"            BottomLayer RESISTOR_0402          -69.488       137.795       90       "Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"                                                   
+R5         "220K - 0805 - %5 - 1/16W"           BottomLayer RESISTOR_0805          3.940         767.716       90       "Thick Film Resistors - SMD 1/2 W 220 KOhm 5%"                                                   
+R4         "47K - 0402 - %1 - 1/16W"            BottomLayer RESISTOR_0402          -169.488      137.795       90       "Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"                                                   
+R3         "220K - 0805 - %5 - 1/16W"           BottomLayer RESISTOR_0805          -94.485       767.716       90       "Thick Film Resistors - SMD 1/2 W 220 KOhm 5%"                                                   
+R2         "47K - 0402 - %1 - 1/16W"            BottomLayer RESISTOR_0402          -269.488      137.795       90       "Thick Film Resistors - SMD 1/16 W 47 KOhm 1%"                                                   
+R1         "220K - 0805 - %5 - 1/16W"           BottomLayer RESISTOR_0805          -192.910      767.716       90       "Thick Film Resistors - SMD 1/2 W 220 KOhm 5%"                                                   
+J2         53426-1010                           TopLayer    Connector_10P_(2.54)   151.575       944.882       180      "2.50mm Pitch Mini-Lock Wire-to-Board Header Right Angle Friction and Positive Lock 10 Circuits" 
+J1         "Connector - Mini PCI-E [Add-on]"    TopLayer    PCB_-_Mini_PCI_Express 151.575       -72.835       0        "Mini PCI-Express gold finger connector."                                                        
+D8         "SMD LED (Green)"                    TopLayer    LED_0402               496.063       590.551       270      "Standard LEDs - SMD MINI-MOLD ULTRA COMPACT GREEN"                                              
+D7         "SMD LED (Green)"                    TopLayer    LED_0402               397.638       590.551       270      "Standard LEDs - SMD MINI-MOLD ULTRA COMPACT GREEN"                                              
+D6         "SMD LED (Green)"                    TopLayer    LED_0402               299.213       590.551       270      "Standard LEDs - SMD MINI-MOLD ULTRA COMPACT GREEN"                                              
+D5         "SMD LED (Green)"                    TopLayer    LED_0402               200.790       590.551       270      "Standard LEDs - SMD MINI-MOLD ULTRA COMPACT GREEN"                                              
+D4         "SMD LED (Green)"                    TopLayer    LED_0402               102.365       590.551       270      "Standard LEDs - SMD MINI-MOLD ULTRA COMPACT GREEN"                                              
+D3         "SMD LED (Green)"                    TopLayer    LED_0402               3.940         590.551       270      "Standard LEDs - SMD MINI-MOLD ULTRA COMPACT GREEN"                                              
+D2         "SMD LED (Green)"                    TopLayer    LED_0402               -94.485       590.551       270      "Standard LEDs - SMD MINI-MOLD ULTRA COMPACT GREEN"                                              
+D1         "SMD LED (Green)"                    TopLayer    LED_0402               -192.910      590.551       270      "Standard LEDs - SMD MINI-MOLD ULTRA COMPACT GREEN"                                              
+C8         "Capacitor - 4.7uF [0402] (Ceramic)" BottomLayer CAPACITOR_0402         572.638       137.795       90       "Multilayer Ceramic Capacitors - SMD - 6V3 4.7uF X5R 0402 20%"                                   
+C7         "Capacitor - 4.7uF [0402] (Ceramic)" BottomLayer CAPACITOR_0402         472.638       137.795       90       "Multilayer Ceramic Capacitors - SMD - 6V3 4.7uF X5R 0402 20%"                                   
+C6         "Capacitor - 4.7uF [0402] (Ceramic)" BottomLayer CAPACITOR_0402         372.638       137.795       90       "Multilayer Ceramic Capacitors - SMD - 6V3 4.7uF X5R 0402 20%"                                   
+C5         "Capacitor - 4.7uF [0402] (Ceramic)" BottomLayer CAPACITOR_0402         272.638       137.795       90       "Multilayer Ceramic Capacitors - SMD - 6V3 4.7uF X5R 0402 20%"                                   
+C4         "Capacitor - 4.7uF [0402] (Ceramic)" BottomLayer CAPACITOR_0402         80.512        137.795       90       "Multilayer Ceramic Capacitors - SMD - 6V3 4.7uF X5R 0402 20%"                                   
+C3         "Capacitor - 4.7uF [0402] (Ceramic)" BottomLayer CAPACITOR_0402         -19.488       137.795       90       "Multilayer Ceramic Capacitors - SMD - 6V3 4.7uF X5R 0402 20%"                                   
+C2         "Capacitor - 4.7uF [0402] (Ceramic)" BottomLayer CAPACITOR_0402         -119.488      137.795       90       "Multilayer Ceramic Capacitors - SMD - 6V3 4.7uF X5R 0402 20%"                                   
+C1         "Capacitor - 4.7uF [0402] (Ceramic)" BottomLayer CAPACITOR_0402         -219.488      137.795       90       "Multilayer Ceramic Capacitors - SMD - 6V3 4.7uF X5R 0402 20%"                                   
