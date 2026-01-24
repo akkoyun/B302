@@ -1,0 +1,10 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [B302BA-PCIe.PcbDoc]
+   Generated File[B302BA-PCIe.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:43:28 On 10.10.2022
