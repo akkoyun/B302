@@ -1,0 +1,116 @@
+Change Component Comment : Designator=R2 Old Comment=100K - 0402 - %1 - 1/16W New Comment=47K - 0402 - %1 - 1/16W
+Change Component Comment : Designator=R8 Old Comment=100K - 0402 - %1 - 1/16W New Comment=47K - 0402 - %1 - 1/16W
+Change Component Comment : Designator=R14 Old Comment=100K - 0402 - %1 - 1/16W New Comment=47K - 0402 - %1 - 1/16W
+Change Component Comment : Designator=R20 Old Comment=100K - 0402 - %1 - 1/16W New Comment=47K - 0402 - %1 - 1/16W
+Change Component Comment : Designator=R26 Old Comment=100K - 0402 - %1 - 1/16W New Comment=47K - 0402 - %1 - 1/16W
+Change Component Comment : Designator=R32 Old Comment=100K - 0402 - %1 - 1/16W New Comment=47K - 0402 - %1 - 1/16W
+Change Component Comment : Designator=R38 Old Comment=100K - 0402 - %1 - 1/16W New Comment=47K - 0402 - %1 - 1/16W
+Change Component Comment : Designator=R44 Old Comment=100K - 0402 - %1 - 1/16W New Comment=47K - 0402 - %1 - 1/16W
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESISTOR_0402"; UniqueID = "\FLWEFODO\JPGHIDLZ" ("\FLWEFODO\JPGHIDLZ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/datasheet/2/427/dcrcwe3-1762152.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com.tr/ProductDetail/Vishay-Dale/CRCW040247K0FKED?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GL%252B3h1elTxqU%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040247K0FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESISTOR_0402"; UniqueID = "\ZZHJQJIZ\LVYZVFNJ" ("\ZZHJQJIZ\LVYZVFNJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/datasheet/2/427/dcrcwe3-1762152.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com.tr/ProductDetail/Vishay-Dale/CRCW040247K0FKED?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GL%252B3h1elTxqU%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040247K0FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESISTOR_0402"; UniqueID = "\EYBKDLOO\KMYQHCYZ" ("\EYBKDLOO\KMYQHCYZ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/datasheet/2/427/dcrcwe3-1762152.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com.tr/ProductDetail/Vishay-Dale/CRCW040247K0FKED?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GL%252B3h1elTxqU%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040247K0FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RESISTOR_0402"; UniqueID = "\TXQRMDDY\IXHQWLLJ" ("\TXQRMDDY\IXHQWLLJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/datasheet/2/427/dcrcwe3-1762152.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com.tr/ProductDetail/Vishay-Dale/CRCW040247K0FKED?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GL%252B3h1elTxqU%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040247K0FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESISTOR_0402"; UniqueID = "\LBWXRKBF\TWEYLINI" ("\LBWXRKBF\TWEYLINI")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/datasheet/2/427/dcrcwe3-1762152.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com.tr/ProductDetail/Vishay-Dale/CRCW040247K0FKED?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GL%252B3h1elTxqU%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040247K0FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RESISTOR_0402"; UniqueID = "\AGWMEKLB\RDKLIEWN" ("\AGWMEKLB\RDKLIEWN")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/datasheet/2/427/dcrcwe3-1762152.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com.tr/ProductDetail/Vishay-Dale/CRCW040247K0FKED?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GL%252B3h1elTxqU%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040247K0FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "RESISTOR_0402"; UniqueID = "\ZQAWHSUW\YTUHTUHY" ("\ZQAWHSUW\YTUHTUHY")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/datasheet/2/427/dcrcwe3-1762152.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com.tr/ProductDetail/Vishay-Dale/CRCW040247K0FKED?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GL%252B3h1elTxqU%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040247K0FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44" ("R44"); Footprint = "RESISTOR_0402"; UniqueID = "\ZMBCBPCZ\MZMFUKKJ" ("\ZMBCBPCZ\MZMFUKKJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/datasheet/2/427/dcrcwe3-1762152.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com.tr/ProductDetail/Vishay-Dale/CRCW040247K0FKED?qs=sGAEpiMZZMu61qfTUdNhG2DpbjADlD3GL%252B3h1elTxqU%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040247K0FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component C1 Capacitor - 100nF [0402] (MLCC)
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component D1 SMD LED (Red)
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component D2 BZT52H-B5V1,115
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component D3 SMAJ440A
+Added Member To Class: ClassName=Sense 3 Signal Isolator Member=Component D9 SMAJ440A
+Added Member To Class: ClassName=Sense 4 Signal Isolator Member=Component D10 SMD LED (Red)
+Added Member To Class: ClassName=Sense 4 Signal Isolator Member=Component D11 BZT52H-B5V1,115
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component R1 4K7 - 0402 - %1 - 1/16W
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component R2 47K - 0402 - %1 - 1/16W
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component R3 180K - 0805 - %0.5 - 1/2W
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component R4 180K - 0805 - %0.5 - 1/2W
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component R5 180K - 0805 - %0.5 - 1/2W
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component R6 180K - 0805 - %0.5 - 1/2W
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component U1 VOM617A-4T
+Added Member To Class: ClassName=Sense 1 Signal Isolator Member=Component U2 LTV-846S
+Added Member To Class: ClassName=Sense 2 Signal Isolator Member=Component U4 LTV-846S
+Added Member To Class: ClassName=Sense 4 Signal Isolator Member=Component U8 LTV-846S
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
