@@ -449,72 +449,84 @@ DocumentPath=Output\BOM\BOM Checks Report-B302.html
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Output\Pick Place\Pick Place for B302.txt
+DocumentPath=Project Outputs for B302\Design Rule Check - B302.html
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=..\..\..\AppData\Local\Temp\2\Qjz2F0A.xls
+DocumentPath=Output\Pick Place\Pick Place for B302.txt
 DItemRevisionGUID=
 
 [GeneratedDocument39]
+DocumentPath=..\..\..\AppData\Local\Temp\2\Qjz2F0A.xls
+DItemRevisionGUID=
+
+[GeneratedDocument40]
 DocumentPath=..\..\..\AppData\Local\Temp\2\Qjz3365.xls
 DItemRevisionGUID=
 
+[GeneratedDocument41]
+DocumentPath=..\..\..\AppData\Local\Temp\2\QjzD752.xls
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=..\..\..\AppData\Local\Temp\2\QjzF41D.xls
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Version_
-Value=00.00.01
+Name=Address1_
+Value=Seker Mah. Ayyildiz Sok.
 
 [Parameter2]
-Name=Revision_
-Value=DA
-
-[Parameter3]
-Name=Product_ID_
-Value=B302
-
-[Parameter4]
-Name=Product_Desc_
-Value=220V to TTL Input Module
-
-[Parameter5]
-Name=Organization_
-Value=-
-
-[Parameter6]
-Name=Module_ID_
-Value=B302
-
-[Parameter7]
-Name=Git_Repo_Address_
-Value=www.github.com/akkoyun/B302
-
-[Parameter8]
-Name=Engineer_
-Value=Gunce Akkoyun
-
-[Parameter9]
-Name=Customer_
-Value=-
-
-[Parameter10]
-Name=Copyright_
-Value=Copyright 2026 Gunce Akkoyun (Commercial Secret)
-
-[Parameter11]
-Name=Address4_
-Value=Türkiye
-
-[Parameter12]
-Name=Address3_
-Value=Selcuklu / Konya
-
-[Parameter13]
 Name=Address2_
 Value=Silverstar Apt. 7/7
 
+[Parameter3]
+Name=Address3_
+Value=Selcuklu / Konya
+
+[Parameter4]
+Name=Address4_
+Value=Türkiye
+
+[Parameter5]
+Name=Copyright_
+Value=Copyright 2026 Gunce Akkoyun (Commercial Secret)
+
+[Parameter6]
+Name=Customer_
+Value=-
+
+[Parameter7]
+Name=Engineer_
+Value=Gunce Akkoyun
+
+[Parameter8]
+Name=Git_Repo_Address_
+Value=www.github.com/akkoyun/B302
+
+[Parameter9]
+Name=Module_ID_
+Value=B302
+
+[Parameter10]
+Name=Organization_
+Value=-
+
+[Parameter11]
+Name=Product_Desc_
+Value=220V to TTL Input Module
+
+[Parameter12]
+Name=Product_ID_
+Value=B302
+
+[Parameter13]
+Name=Revision_
+Value=DA
+
 [Parameter14]
-Name=Address1_
-Value=Seker Mah. Ayyildiz Sok.
+Name=Version_
+Value=00.00.01
 
 [Configuration1]
 Name=Sources
