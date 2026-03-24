@@ -4,6 +4,8 @@ B302 is an **8-channel high-voltage AC input module** designed to convert **220 
 
 This repository is an **Altium Designer hardware design repository**. It contains the project files, schematics, PCB layout and generated manufacturing/output artifacts used to review, manufacture or extend the board.
 
+![B302 Board Preview](Output/PCB%203D%20Print/B302.jpg)
+
 ## What This Board Does
 
 From the schematic set, B302 is a **220 V to TTL input module** with **8 isolated sensing channels**. Each channel accepts a high-voltage AC input and produces a logic-level sense output for the host side.
